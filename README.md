@@ -1,6 +1,6 @@
-# shinn
+# Shinn
 
-shinn ဟာ group ထဲက အသုံးစရိတ်တွေကို မျှဝေပြီး ဘယ်သူက ဘယ်သူ့ကို ဘယ်လောက်ပေးရမလဲ (balance) ကို တွက်ပေးတဲ့ practice project ဖြစ်ပါတယ်။
+Shinn ဟာ group ထဲက အသုံးစရိတ်တွေကို မျှဝေပြီး ဘယ်သူက ဘယ်သူ့ကို ဘယ်လောက်ပေးရမလဲ (balance) ကို တွက်ပေးတဲ့ practice project ဖြစ်ပါတယ်။
 
 ## MVP Scope
 
