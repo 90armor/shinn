@@ -1,6 +1,6 @@
 # Phase 0 Prompt — စတင်ရန် ပြင်ဆင်ခြင်း
 
-**အသုံးပြုပုံ:** `cd ~/Projects/NAMR/share-expense` ပြီး `claude` ဖွင့်၊ `Shift+Tab` နဲ့ **Plan mode** ကိုဖွင့်၊ အောက်က prompt ကို paste လုပ်။ Claude ပြတဲ့ plan ကိုဖတ်ပြီး OK ပေးမှ ဆက်လုပ်စေ။
+**အသုံးပြုပုံ:** `cd ~/Projects/NAMR/shinn` ပြီး `claude` ဖွင့်၊ `Shift+Tab` နဲ့ **Plan mode** ကိုဖွင့်၊ အောက်က prompt ကို paste လုပ်။ Claude ပြတဲ့ plan ကိုဖတ်ပြီး OK ပေးမှ ဆက်လုပ်စေ။
 
 **ပြီးပြီလို့ သတ်မှတ်ချက်:**
 - [ ] `claude` run လို့ရ
@@ -11,7 +11,7 @@
 ## Prompt
 
 ```text
-ဒီ repo က Share Expense practice project ပါ။ အခု Phase 0 (code မရေးသေးပါဘူး၊ စည်းကမ်းနဲ့ အခြေခံဖိုင်တွေပဲ) ကို လုပ်မယ်။
+ဒီ repo က shinn practice project ပါ။ အခု Phase 0 (code မရေးသေးပါဘူး၊ စည်းကမ်းနဲ့ အခြေခံဖိုင်တွေပဲ) ကို လုပ်မယ်။
 
 အရင်ဆုံး (ဘာမှမပြင်ဘဲ) လက်ရှိ repo အခြေအနေကို စစ်ပါ: ဖိုင်တွေ၊ git branch/remote၊ README ပါတာ။ ပြီးရင် အောက်ပါအတိုင်း plan ပြပါ။ ငါ OK မပေးမချင်း ဖိုင်မဆောက်ပါနဲ့။
 

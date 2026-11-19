@@ -1,6 +1,6 @@
-# Share Expense
+# shinn
 
-Share Expense ဟာ group ထဲက အသုံးစရိတ်တွေကို မျှဝေပြီး ဘယ်သူက ဘယ်သူ့ကို ဘယ်လောက်ပေးရမလဲ (balance) ကို တွက်ပေးတဲ့ practice project ဖြစ်ပါတယ်။
+shinn ဟာ group ထဲက အသုံးစရိတ်တွေကို မျှဝေပြီး ဘယ်သူက ဘယ်သူ့ကို ဘယ်လောက်ပေးရမလဲ (balance) ကို တွက်ပေးတဲ့ practice project ဖြစ်ပါတယ်။
 
 ## MVP Scope
 
@@ -60,8 +60,8 @@ Local first run: `npm ci && npm run db:generate && npm run db:deploy && npm run 
 Production `runner` image — migrations run automatically at container start (`docker-entrypoint.sh`); if they fail, the container exits non-zero and the server does not start:
 
 ```sh
-docker build --target runner -t share-expense .
-docker run -p 3000:3000 -v share-expense-data:/app/data share-expense
+docker build --target runner -t shinn .
+docker run -p 3000:3000 -v shinn-data:/app/data shinn
 curl localhost:3000/api/health
 ```
 
