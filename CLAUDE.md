@@ -4,7 +4,7 @@
 
 ## Project
 
-Share Expense — group အသုံးစရိတ် မျှဝေမှု balance တွက်ပေးတဲ့ practice project။ Scope နဲ့ MVP feature list အတွက် README.md ကိုကြည့်ပါ (feature ၅ ခုပဲ — ဒီထက်မပိုရ)။
+Shinn — group အသုံးစရိတ် မျှဝေမှု balance တွက်ပေးတဲ့ practice project။ Scope နဲ့ MVP feature list အတွက် README.md ကိုကြည့်ပါ (feature ၅ ခုပဲ — ဒီထက်မပိုရ)။
 
 ## Stack
 

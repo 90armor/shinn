@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Share Expense",
+  title: "Shinn",
   description: "Split group expenses and see who owes whom.",
 };
 

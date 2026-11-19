@@ -20,7 +20,7 @@ export type TestDb = Readonly<{
  * order is apply order). Never touches DATABASE_URL or data/.
  */
 export function createTestDb(): TestDb {
-  const path = join(tmpdir(), `share-expense-test-${randomUUID()}.db`);
+  const path = join(tmpdir(), `shinn-test-${randomUUID()}.db`);
 
   const sqlite = new Database(path);
   try {
