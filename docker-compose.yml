@@ -5,7 +5,7 @@ services:
       dockerfile: Dockerfile
       target: dev
     ports:
-      - "3000:3000"
+      - "3001:3000"
     environment:
       # Own file, separate from local dev's ./data/dev.db (see docs/decisions.md).
       DATABASE_URL: file:/app/data/docker.db
